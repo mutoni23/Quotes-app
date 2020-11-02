@@ -8,5 +8,6 @@ background-image:url(https://media.istockphoto.com/photos/brown-wood-texture-dar
     margin-top: -400px;
 }
 #padding{
-   
+   display:flex;
+   flex-direction: row;
 }
