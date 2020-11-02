@@ -3,13 +3,14 @@ background-image:url(https://media.istockphoto.com/photos/brown-wood-texture-dar
 display:flex;
 flex-direction: row;
 justify-content: space-evenly;
+color:white;
 }
-#ng{
-    margin-left:600px;
+/* #ng{
+    margin-left:200px;
     color:white;
     font-size:20px;
     margin-top: -400px;
-}
+} */
 #padding{
    display:flex;
    flex-direction: row;
