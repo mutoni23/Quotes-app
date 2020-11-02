@@ -1,6 +1,19 @@
 # Quotes-App
 
-A project README that includes: - project or program name - author name - description of project - project setup instructions - link to live site on GitHub Pages - copyright and license information
+ # project or program 
+ Quotes-app 
+ # author
+ vivine 
+ # description of project 
+ this app allows the user to upload their favorite quotes and post it, they can also view whether it has been liked or disliked and also to be able to check the time it has been posted.
+ # project setup instructions 
+ open your terminal, and then you clone it by using the following link
+ https://github.com/mutoni23/Quotes-app.git
+
+ # link to live site on GitHub Pages - 
+
+ # Copyright  and license information
+ Done by Vivine Mutoni on 2/011/2020
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
