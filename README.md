@@ -11,7 +11,7 @@
  https://github.com/mutoni23/Quotes-app.git
 
  # link to live site on GitHub Pages - 
-
+[click here to see website] (https://mutoni23.github.io/Quotes-app/)
  # Copyright  and license information
  Done by Vivine Mutoni on 2/011/2020
 
